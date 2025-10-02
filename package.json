@@ -2,7 +2,7 @@
   "name": "homecare-patient-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kbwoodall.github.io/home-care-patient-list",
+  "homepage": "https://kbwoodall.github.io/homecare-patient-list",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
